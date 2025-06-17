@@ -1,0 +1,45 @@
+body{
+    background-color:#deb887;
+    text-align: center;
+padding: auto;
+margin: auto;
+}
+
+.container{
+
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    /* align-items: center; */
+ 
+
+
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 2rem;
+}
+.blue{
+    background-color: #219687;
+}
+.maroon{
+background-color: #962162;
+}
+.yellow{
+    background-color: #b5ae21;
+}
+.red{
+    background-color: #b54121;
+}
+.game{
+    background-color: white;
+}
+
+.user{
+    background-color: green;
+}
+
